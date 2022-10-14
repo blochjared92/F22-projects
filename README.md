@@ -69,6 +69,12 @@ This is a short but exciting description about the Example Project. Lorem ipsum 
         </a><br/>
         <small><b>nicholasdly</b></small>
       </td>
+      <td align="center">
+        <a href="https://github.com/blochjared92">
+        <img src="https://avatars.githubusercontent.com/u/89890749?s=400&u=07871b218a34fdfc5b97bf4c056f6334c8f80e29&v=4" width="100px;"/>
+        </a><br/>
+        <small><b>blochjared92</b></small>
+      </td>
       </tr>
   </tbody>
 </table>
